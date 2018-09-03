@@ -1,0 +1,16 @@
+[
+{
+  "modid": "QuickCM",
+  "name": "QuickCM",
+  "description": "Hypixel Convenient",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://www.youtube.com/channel/UC3bhXL2NMd6NyP-uI22sr9Q",
+  "updateUrl": "https://www.youtube.com/channel/UC3bhXL2NMd6NyP-uI22sr9Q",
+  "authorList": ["himohimo"],
+  "credits": "himohimo",
+  "logoFile": "Logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
